@@ -1,0 +1,385 @@
+OBJECT_SHARED Models/Airport/ndb.ac 15.401211 78.249733 3.64 180
+OBJECT_SHARED Models/Airport/ils.ac 15.427869 78.246939 25.12 253.1
+OBJECT_SHARED Models/Airport/ils.ac 15.510367 78.247064 12.46 122.89
+OBJECT_SHARED Models/Airport/marker.ac 15.400914 78.249736 3.42 180
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.361397 78.228594 439.08 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.361741 78.228883 441.81 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.362084 78.228392 438.73 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.362406 78.228677 441.4 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.362771 78.228165 438.2 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.362964 78.228961 444.45 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.363071 78.228489 441.11 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.36335 78.227972 437.87 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.363436 78.228764 443.78 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.363779 78.228257 441.08 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.363994 78.227727 438.54 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.364144 78.228572 444.26 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.364144 78.22908 447.39 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.364401 78.22806 441.97 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.36468 78.228869 447.03 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.364788 78.228353 444.28 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.364873 78.22739 438.98 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.365024 78.227819 441.6 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.365345 78.228668 446.81 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.365431 78.228138 443.95 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.365775 78.22749 440.78 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.365989 78.228445 446.43 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.366054 78.227898 443.45 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.36629 78.227197 439.84 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.366676 78.228226 446.14 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.366719 78.227039 439.53 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.366805 78.227574 442.65 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.367126 78.226882 439.21 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.367234 78.227994 445.6 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.367427 78.227346 442.22 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.367577 78.226729 438.96 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.367856 78.227184 441.9 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.368049 78.227666 444.86 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.368156 78.226597 439.01 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.368414 78.227026 441.77 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.368543 78.227469 444.43 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.368629 78.226462 438.9 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.368779 78.226886 441.48 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.369058 78.226304 438.6 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.369143 78.227289 444.24 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.369294 78.226729 441.3 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.369744 78.22658 441.08 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.369809 78.227101 444.09 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.370173 78.226431 440.83 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.370324 78.226939 443.89 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.370688 78.232156 459.81 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.370967 78.226733 443.61 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.371525 78.226536 443.26 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.372105 78.226335 443.34 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.374722 78.231763 451.97 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.376654 78.231579 450.26 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.378628 78.231377 450.89 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.379829 78.230782 451.15 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.380645 78.231202 451.53 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.381632 78.227867 450.91 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.381846 78.231745 451.31 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.381889 78.230616 451.74 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.382576 78.227639 451.05 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.382833 78.226799 450.86 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.383735 78.227403 451.23 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.383992 78.226632 451.06 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.38425 78.230143 448.93 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.384293 78.229907 449.08 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.384679 78.227175 450.96 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.385022 78.226396 451.1 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.385838 78.227 449.12 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.386052 78.226151 449.98 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.386868 78.226772 449.64 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.387855 78.226527 450.17 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.388885 78.226291 450.82 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.393262 78.23045 448.12 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.398659 78.226529 453.8 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.398669 78.226186 454.22 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.400364 78.226527 455.25 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.401909 78.226521 457.06 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.402532 78.230056 448.41 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.403572 78.22651 457.48 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.405289 78.226512 457.12 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.40692 78.22651 456.36 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.416286 78.226908 450.85 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.417595 78.227429 451.7 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.417874 78.226768 452.96 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.420191 78.227298 455 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.423185 78.227998 453.99 0
+OBJECT_SHARED Models/Communications/radome-4m.xml 15.423657 78.227965 453.81 0
+OBJECT_SHARED Models/Communications/radome-8m.xml 15.376997 78.233093 454.33 0
+OBJECT_SHARED Models/Communications/radome-8m.xml 15.381289 78.232813 443.19 0
+OBJECT_SHARED Models/Communications/radome-8m.xml 15.41472 78.22925 451.16 0
+OBJECT_SHARED Models/Communications/radome-8m.xml 15.421114 78.227998 455.13 0
+OBJECT_SHARED Models/Communications/radome-8m.xml 15.423045 78.228734 451.72 0
+OBJECT_SHARED Models/Communications/radome-8m.xml 15.425062 78.227692 453.97 0
+OBJECT_SHARED Models/Communications/radome-8m.xml 15.429053 78.226501 456.32 0
+OBJECT_SHARED Models/Communications/radome-8m.xml 15.429311 78.227412 453.6 0
+OBJECT_SHARED Models/Communications/radome-8m.xml 15.433474 78.227175 454.56 0
+OBJECT_SHARED Models/Communications/radome-16m.xml 15.37056 78.233443 451.95 0
+OBJECT_SHARED Models/Communications/radome-16m.xml 15.387533 78.232445 443.76 0
+OBJECT_SHARED Models/Communications/radome-16m.xml 15.387769 78.2289 447.92 0
+OBJECT_SHARED Models/Communications/radome-16m.xml 15.389099 78.230686 446.65 0
+OBJECT_SHARED Models/Communications/radome-16m.xml 15.397553 78.230204 449.56 0
+OBJECT_SHARED Models/Communications/radome-16m.xml 15.400901 78.228489 450.78 0
+OBJECT_SHARED Models/Communications/radome-16m.xml 15.405321 78.225704 456.03 0
+OBJECT_SHARED Models/Communications/radome-16m.xml 15.437894 78.226939 456.25 0
+OBJECT_SHARED Models/Communications/radome-16m.xml 15.440383 78.227692 452.9 0
+OBJECT_SHARED Models/Communications/radome-16m.xml 15.441928 78.226702 455.17 0
+OBJECT_SHARED Models/Communications/radome-24m.xml 15.396481 78.231955 444.99 0
+OBJECT_SHARED Models/Communications/radome-24m.xml 15.406753 78.231333 444.4 0
+OBJECT_SHARED Models/Communications/radome-24m.xml 15.407338 78.229688 453.16 0
+OBJECT_SHARED Models/Communications/radome-24m.xml 15.409269 78.227972 452.5 0
+OBJECT_SHARED Models/Communications/radome-24m.xml 15.416828 78.230738 442.55 0
+OBJECT_SHARED Models/Communications/radome-24m.xml 15.431285 78.228191 450.93 0
+OBJECT_SHARED Models/Airport/localizer.xml 15.520225 78.243067 21.94 195.42
+OBJECT_SHARED Models/Communications/communication-building1-without-antenna.ac 15.379272 78.230441 450.87 20
+OBJECT_SHARED Models/Residential/French_House.ac 15.395193 78.229009 450.4 20
+
+
+### CUSTOM
+
+
+OBJECT_STATIC ensb_buildings.ac 15.49556 78.24648 22 74.7
+
+# Fences
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.40527151 78.24685401 24.9553 166.3 0.0 -1.8
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.40741338 78.24674728 26.5004 166.3 0.0 -1.8
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.40955522 78.24664053 27.9683 166.3 0.0 -1.6
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.41169701 78.24653376 29.3677 166.2 0.0 -1.6
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.41383877 78.24642698 30.6639 166.2 0.0 -1.4
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.41598049 78.24632018 31.8332 166.2 0.0 -1.3
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.41812217 78.24621337 32.9286 166.2 0.0 -1.2
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.42026381 78.24610654 33.9589 166.2 0.0 -1.2
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.42240542 78.24599969 34.9746 166.2 0.0 -1.2
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.42454698 78.24589283 35.9491 166.2 0.0 -1.1
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.42668851 78.24578596 36.7540 166.2 0.0 -0.8
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.42883000 78.24567906 37.4115 166.2 0.0 -0.7
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.43097145 78.24557215 38.1835 166.2 0.0 -1.0
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.43311286 78.24546523 39.0464 166.2 0.0 -0.9
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.43525423 78.24535829 39.6542 166.2 0.0 -0.4
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.43739824 78.24525360 40.0229 166.8 0.0 -0.4
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.43954487 78.24515116 40.3805 166.8 0.0 -0.4
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.44169147 78.24504871 40.7952 166.8 0.0 -0.5
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.44383803 78.24494624 40.7425 166.8 0.0 --0.7
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.44598455 78.24484375 40.0490 166.8 0.0 --0.9
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.44813103 78.24474125 39.9795 166.8 0.0 -0.8
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.45027748 78.24463873 40.6419 166.8 0.0 -0.7
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.45242390 78.24453620 41.2792 166.8 0.0 -0.7
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.45457027 78.24443364 41.5058 166.8 0.0 --0.2
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.45671661 78.24433108 41.2850 166.8 0.0 --0.3
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.45886263 78.24422825 41.2570 166.7 0.0 -0.2
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.46100882 78.24412559 41.4022 166.8 0.0 -0.1
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.46315544 78.24402332 41.3018 166.8 0.0 --0.3
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.46531048 78.24392905 41.1055 168.9 0.0 --0.1
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.46747534 78.24384427 41.1318 169.3 0.0 -0.2
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.46964156 78.24376096 41.3607 169.3 0.0 -0.3
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.47180776 78.24367763 41.6834 169.3 0.0 -0.4
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.47397392 78.24359429 42.1587 169.3 0.0 -0.7
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.47614006 78.24351093 42.7624 169.3 0.0 -0.7
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.47830617 78.24342756 43.3118 169.3 0.0 -0.6
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.48047341 78.24334544 43.4321 169.6 0.0 --0.3
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.48264178 78.24326458 42.9518 169.6 0.0 --0.8
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.48481012 78.24318370 42.2536 169.6 0.0 --0.8
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.48697843 78.24310281 41.6164 169.6 0.0 --0.7
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.48914583 78.24302093 41.0346 169.4 0.0 --0.7
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.49131232 78.24293806 40.4614 169.4 0.0 --0.7
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.49347878 78.24285518 39.7915 169.4 0.0 --0.9
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.49564565 78.24277277 38.9159 169.5 0.0 --1.1
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.49781283 78.24269070 37.7185 169.5 0.0 --1.6
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.49997965 78.24260827 36.1704 169.4 0.0 --1.9
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.50214622 78.24252556 34.4517 169.4 0.0 --2.0
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.50431307 78.24244320 32.6901 169.5 0.0 --2.0
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.50648022 78.24236116 31.0069 169.5 0.0 --1.8
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.50864733 78.24227911 29.4238 169.5 0.0 --1.8
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.51081442 78.24219704 27.6575 169.5 0.0 --2.2
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.51298147 78.24211496 25.6797 169.5 0.0 --2.3
+OBJECT_SHARED Models/Boundaries/Fence-20m-green.ac 15.51441424 78.24212872 24.1998 217.6 0.0 --2.8
+OBJECT_SHARED Models/Boundaries/Fence-20m-green.ac 15.51511276 78.24223835 23.2338 217.6 0.0 --2.8
+OBJECT_SHARED Models/Boundaries/Fence-20m-green.ac 15.51581129 78.24234798 22.4719 217.6 0.0 --1.6
+OBJECT_SHARED Models/Boundaries/Fence-20m-green.ac 15.51650983 78.24245760 22.0534 217.6 0.0 --0.8
+OBJECT_SHARED Models/Boundaries/Fence-20m-green.ac 15.51717271 78.24257555 21.7257 224.7 0.0 --1.1
+OBJECT_SHARED Models/Boundaries/Fence-20m-green.ac 15.51789087 78.24267438 21.3276 203.4 0.0 --1.2
+OBJECT_SHARED Models/Boundaries/Fence-20m-green.ac 15.51865787 78.24275246 20.9236 206.2 0.0 --1.2
+OBJECT_SHARED Models/Boundaries/Fence-20m-green.ac 15.51948901 78.24280593 20.4883 188.8 0.0 --1.3
+OBJECT_SHARED Models/Boundaries/Fence-20m-green.ac 15.52036267 78.24280954 20.0501 173.5 0.0 --1.2
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.52189120 78.24276682 19.2767 171.7 0.0 --1.3
+OBJECT_SHARED Models/Boundaries/Fence-20m-green.ac 15.52342171 78.24272866 18.4780 176.4 0.0 --1.4
+OBJECT_SHARED Models/Boundaries/Fence-20m-green.ac 15.52430170 78.24271744 18.0059 176.4 0.0 --1.3
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.52421299 78.24290888 17.9653 298.7 0.0 -0.4
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.52310764 78.24329732 18.3549 301.5 0.0 -0.4
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.52189922 78.24367274 18.7018 305.0 0.0 -0.3
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.52057088 78.24403082 19.0103 309.2 0.0 -0.4
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.51913304 78.24437108 19.3043 312.3 0.0 -0.3
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.51749966 78.24467000 19.6186 323.7 0.0 -0.4
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.51569589 78.24492809 19.9460 326.1 0.0 -0.3
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.51383409 78.24516836 20.2363 329.2 0.0 -0.3
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.51192508 78.24539298 20.4920 330.8 0.0 -0.3
+OBJECT_SHARED Models/Boundaries/Fence-20m-green.ac 15.51054395 78.24553067 20.6806 341.7 0.0 -0.4
+OBJECT_SHARED Models/Boundaries/Fence-10m-green.ac 15.50991740 78.24557384 20.7806 340.5 0.0 -0.3
+OBJECT_SHARED Models/Boundaries/Fence-10m-green.ac 15.50965296 78.24563223 20.7553 284.9 0.0 --0.6
+OBJECT_SHARED Models/Boundaries/Fence-10m-green.ac 15.50941416 78.24570093 20.7048 325.7 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.50826427 78.24583381 20.7572 331.4 0.0 -0.1
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.50632886 78.24604898 20.8211 331.4 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.50439338 78.24626414 20.8233 331.4 0.0 --0.0
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.50245736 78.24647911 20.7757 331.4 0.0 --0.1
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.50052080 78.24669389 20.6864 331.4 0.0 --0.1
+# 
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.41624356 78.25006799 11.0890 343.5 0.0 --1.9
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.41412838 78.25019531 9.3609 343.5 0.0 --2.1
+OBJECT_SHARED Models/Boundaries/Fence-20m-green.ac 15.41265526 78.25028913 8.0843 340.4 0.0 --2.2
+OBJECT_SHARED Models/Boundaries/Fence-20m-green.ac 15.41182219 78.25034827 7.3081 341.2 0.0 --2.3
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.41041167 78.25027953 6.7572 25.8 0.0 --0.3
+OBJECT_SHARED Models/Boundaries/Fence-20m-green.ac 15.40902579 78.25014240 6.5552 26.1 0.0 --0.3
+
+# 
+OBJECT_SHARED Models/Boundaries/Fence-10m-green.ac 15.48597695 78.24723009 22.8999 344.6 0.0 --16.8
+OBJECT_SHARED Models/Boundaries/Fence-10m-green.ac 15.48555174 78.24725393 21.3828 344.6 0.0 --0.1
+OBJECT_SHARED Models/Boundaries/Fence-10m-green.ac 15.48512651 78.24727776 21.3597 344.6 0.0 --0.2
+OBJECT_SHARED Models/Boundaries/Fence-10m-green.ac 15.48470123 78.24730155 20.9694 344.7 0.0 --4.3
+OBJECT_SHARED Models/Boundaries/Fence-10m-green.ac 15.48427585 78.24732527 20.0147 344.7 0.0 --6.6
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.48299915 78.24727821 19.5310 15.2 0.0 -0.2
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.48087187 78.24715993 19.9603 15.3 0.0 -0.8
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.47874528 78.24704115 20.6277 15.3 0.0 -0.8
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.47661874 78.24692235 21.2951 15.3 0.0 -0.8
+OBJECT_SHARED Models/Boundaries/Fence-20m-green.ac 15.47513324 78.24684127 21.7481 14.0 0.0 -0.7
+OBJECT_SHARED Models/Boundaries/Fence-20m-green.ac 15.47427753 78.24679772 21.9874 14.0 0.0 -0.7
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.47275463 78.24680203 21.8785 353.3 0.0 --0.5
+OBJECT_SHARED Models/Boundaries/Fence-2m-green.ac 15.47161654 78.24683008 21.6337 347.4 0.0 --0.9
+OBJECT_SHARED Models/Boundaries/Fence-2m-green.ac 15.47155192 78.24683987 21.5559 299.3 0.0 --3.5
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.47142550 78.24707127 19.6270 275.5 0.0 --4.3
+OBJECT_SHARED Models/Boundaries/Fence-10m-green.ac 15.47130042 78.24733955 17.3875 275.3 0.0 --4.3
+OBJECT_SHARED Models/Boundaries/Fence-10m-green.ac 15.47106838 78.24739678 16.9377 343.8 0.0 --0.9
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.46977743 78.24745533 16.7592 348.2 0.0 --0.2
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.46761397 78.24754210 16.5976 349.6 0.0 --0.1
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.46544549 78.24762369 16.4753 349.5 0.0 --0.1
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.46327711 78.24770543 16.4634 349.5 0.0 -0.1
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.46110871 78.24778715 16.5753 349.5 0.0 -0.1
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.45894028 78.24786886 16.7253 349.5 0.0 -0.2
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.45677182 78.24795055 16.9684 349.5 0.0 -0.4
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.45460333 78.24803222 17.2212 349.5 0.0 -0.2
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.45243485 78.24811392 17.3997 349.5 0.0 -0.2
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.45026643 78.24819570 17.5429 349.5 0.0 -0.1
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.44809802 78.24827752 17.7808 349.5 0.0 -0.4
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.44592959 78.24835932 18.2554 349.5 0.0 -0.7
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.44375942 78.24843918 19.1110 350.0 0.0 -1.3
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.44161598 78.24853525 19.4990 345.2 0.0 --0.4
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.43949178 78.24865581 18.8089 343.6 0.0 --1.2
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.43737819 78.24878404 17.5408 343.2 0.0 --1.7
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.43526846 78.24891490 16.0263 342.9 0.0 --1.8
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.43316103 78.24904731 14.4871 342.8 0.0 --1.8
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.43105010 78.24917737 13.3546 343.5 0.0 --0.8
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.42893489 78.24930456 13.1564 343.5 0.0 -0.4
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.42681964 78.24943174 13.3247 343.6 0.0 --0.0
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.42470435 78.24955890 13.2171 343.6 0.0 --0.2
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.42258900 78.24968605 12.9693 343.6 0.0 --0.3
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.42047379 78.24981330 12.6696 343.5 0.0 --0.4
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.41835870 78.24994065 12.2150 343.5 0.0 --0.7
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.40832894 78.24988685 7.3693 74.2 0.0 -2.0
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.40772906 78.24945462 9.0286 74.3 0.0 -1.8
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.40713053 78.24902232 11.1862 74.3 0.0 -3.1
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.40653204 78.24859002 13.8153 74.3 0.0 -2.9
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.40593359 78.24815771 16.2276 74.3 0.0 -2.6
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.40533519 78.24772541 18.7536 74.3 0.0 -3.2
+OBJECT_SHARED Models/Boundaries/Fence-50m-green.ac 15.40473683 78.24729310 21.5783 74.3 0.0 -3.3
+OBJECT_SHARED Models/Boundaries/Fence-20m-green.ac 15.40431941 78.24699041 23.6171 74.4 0.0 -3.4
+
+OBJECT_STATIC longyearbyen_taubanesentralen.ac 15.61650 78.22371 52.0 90.0 0.0 0.0
+
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.588548 78.2283867 20.494 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.5869389 78.2286669 17.072 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.585799 78.2288397 19.689 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.5838093 78.2291882 19.895 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.5804199 78.2297643 14.156 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.5778327 78.2301877 15.483 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.5751223 78.2306487 13.34 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.5732839 78.2309702 14.358 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.5715392 78.2312595 15.442 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.569074 78.231675 12.69 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.567295 78.2319774 12.221 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.5655369 78.2322688 12.148 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.5620147 78.2328598 10.772 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.5605708 78.2331036 12.773 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.5590937 78.2333616 12.893 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.5574978 78.2336258 15.877 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.556029 78.2338748 13.118 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.5548218 78.2340742 11.204 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.5535822 78.234285 12.676 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.5522775 78.2344969 13.526 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.5511904 78.2346832 10.694 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.5491982 78.2350111 13.502 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.5472531 78.2353452 12.694 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.5433711 78.2359964 14.454 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.5418242 78.2362714 16.324 50
+OBJECT_STATIC svalbard_aerialway_pylon.ac 15.5401659 78.236533 17.207 50
+
+
+OBJECT_STATIC longyearbyen_university.ac 15.65159 78.22244 8.29 70.5
+
+OBJECT_SHARED Models/Transport/VWPassat_S1.ac 15.49142641 78.24739700 20.5474 280.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/VWPassat_S1.ac 15.49258612 78.24732742 20.5547 108.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/bmw3silver.ac 15.49152631 78.24723145 20.9159 288.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/dodgeramyellow.ac 15.49105883 78.24739879 20.5870 72.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/dodgeramyellow.ac 15.49208880 78.24727968 20.7312 120.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/dodgeramred.ac 15.49094537 78.24740752 20.5808 256.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/dodgeramred.ac 15.49186322 78.24743260 20.4065 112.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/dodgeramwhite.ac 15.49171116 78.24729157 20.7527 304.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/dodgeramwhite.ac 15.49166678 78.24712123 21.1532 112.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/dodgeramgreen.ac 15.48984337 78.24730793 20.9454 64.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/dodgeramblue.ac 15.49036885 78.24716363 21.2164 256.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/dodgeramblue.ac 15.48937823 78.24723148 21.1764 48.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/bmw3silver.ac 15.48971948 78.24720117 21.2066 76.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/bussmallwhite.ac 15.49112882 78.24747039 20.9687 12.0 0.6 0.0 -0.0
+OBJECT_SHARED Models/Transport/hondacrvred.ac 15.49060143 78.24727018 20.9841 72.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/hondacrvblack.ac 15.49102493 78.24712705 21.2190 256.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/honda1.ac 15.49003329 78.24717715 21.2296 80.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/hondacrvsilver.ac 15.49380114 78.24738930 20.2447 264.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/hummerh2.xml 15.49505519 78.24717069 20.5662 112.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/hummerh2.xml 15.49221039 78.24733476 20.5876 288.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/pickupblue.ac 15.49088707 78.24728292 21.0564 72.0 0.2 0.0 -0.0
+OBJECT_SHARED Models/Transport/motorhome.ac 15.49307425 78.24738311 20.3603 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/pickupwhite.ac 15.49202616 78.24716912 21.0148 288.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/pickupyelwhite.ac 15.49392625 78.24722179 20.4561 72.0 -0.2 0.0 -0.0
+OBJECT_SHARED Models/Transport/van_blue_dirty.ac 15.49240275 78.24718580 20.8788 24.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/van_silver.ac 15.49054680 78.24731360 20.8476 340.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/bussmallwhite.ac 15.49680911 78.24752290 19.4881 72.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/bussmallwhite.ac 15.49645480 78.24755081 19.4799 72.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/bussmallwhite.ac 15.49609945 78.24757508 19.4786 72.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/container_20ft.xml 15.49810425 78.24740559 19.5469 64.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/container_20ft.xml 15.49803194 78.24737466 19.6523 64.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/garbagecontainerrusty.ac 15.49751947 78.24748613 19.4143 72.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/steamroller.ac 15.49837090 78.24747082 19.3538 324.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Transport/steamroller.ac 15.49825113 78.24744001 19.4439 332.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/redwhite_concrete_20m.ac 15.49802317 78.24753881 19.2828 332.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Boundaries/redwhite_concrete_20m.ac 15.49740107 78.24750823 19.4276 72.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cart1-gen.ac 15.49497688 78.24643685 22.2296 72.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodolly2.ac 15.49472107 78.24645036 22.2398 72.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodolly2.ac 15.49454431 78.24646248 22.2409 72.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/cargodolly2uld.ac 15.49436528 78.24647136 22.2493 72.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/beltloader-gen.ac 15.49515429 78.24641858 22.2399 76.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/EDDI-FollowMe.ac 15.49400922 78.24648503 22.2740 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/dicingtruck.ac 15.49599690 78.24638349 22.1872 264.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 15.49618852 78.24636497 22.3000 0.0 0.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml 15.49630088 78.24636172 22.1707 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/stairs4-lirq.ac 15.49647022 78.24637353 22.2771 72.0 0.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/stairs4-lirq.ac 15.49661094 78.24636528 22.1973 72.0 0.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/tractor3-delta.ac 15.49422412 78.24647184 22.5872 96.0 0.3 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/sweeper-lirq.ac 15.49554076 78.24637035 22.1851 264.0 -0.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/medfueltruck-asig.ac 15.49358123 78.24650847 22.2681 336.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/Rosenbauer_FLF_Panther8x8SWB.ac 15.50207957 78.24616344 21.5470 164.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Vehicle/RTW_Sprinter_515.xml 15.50219951 78.24613790 21.5754 164.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/GenericFuelStore4.ac 15.50201226 78.24744950 18.7458 324.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 15.49918271 78.24619557 22.0433 224.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 15.49570135 78.24640490 22.1869 224.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 15.49268558 78.24655965 22.2942 224.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 15.48887017 78.24680016 22.2304 224.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/Apronlamp16m180deg.xml 15.48533325 78.24701037 22.1241 224.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/apronworker4.xml 15.48943799 78.24668375 22.4323 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/apronworker5.xml 15.49078235 78.24666137 22.3215 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/apronworker3.xml 15.49018029 78.24666543 22.3886 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/apronworker1.xml 15.49163386 78.24658477 22.3794 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/Misc/apronworker1.xml 15.47500783 78.24669848 23.6058 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp5.xml 15.49110140 78.24726115 20.9002 352.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp5.xml 15.49168059 78.24726964 20.8081 20.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp5.xml 15.49237851 78.24733596 20.5631 24.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp5.xml 15.49278019 78.24737072 20.4287 12.0 -0.1 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp5.xml 15.49331095 78.24738895 20.3143 352.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp5.xml 15.49399483 78.24735826 20.2888 352.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp5.xml 15.49350506 78.24704533 21.0793 0.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp5.xml 15.49412354 78.24701229 21.0667 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp5.xml 15.49465146 78.24698323 21.0560 0.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Stop-Sign.ac 15.49454506 78.24705866 20.9785 168.0 0.1 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Stop-Sign.ac 15.49444107 78.24700275 21.0424 168.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Stop-Sign.ac 15.49408419 78.24700769 21.0813 352.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Stop-Sign.ac 15.49399637 78.24694940 21.2292 344.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 15.50038755 78.24730072 19.3881 336.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 15.49879653 78.24755330 19.0934 336.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 15.49697862 78.24772844 18.9895 24.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 15.49540344 78.24775998 19.1579 24.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 15.49409072 78.24774491 19.3826 36.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 15.49198901 78.24765038 19.8852 20.0 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 15.48959137 78.24753214 20.4556 24.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 15.48786173 78.24737224 21.0231 72.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 15.48880061 78.24708295 21.5866 144.0 -0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 15.49141269 78.24698566 21.4992 168.0 0.0 0.0 -0.0
+
