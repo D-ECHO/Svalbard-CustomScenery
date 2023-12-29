@@ -383,3 +383,6 @@ OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 15.48786173 78.24737224 21.
 OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 15.48880061 78.24708295 21.5866 144.0 -0.0 0.0 -0.0
 OBJECT_SHARED Models/StreetFurniture/StreetLamp4.xml 15.49141269 78.24698566 21.4992 168.0 0.0 0.0 -0.0
 
+OBJECT_SHARED Models/Airport/sign_rwy_ahead_11x3.xml 15.48536476 78.24593510 24.7960 98.4 0.0 -0.0
+OBJECT_SHARED Models/Airport/sign_rwy_ahead_16x5.xml 15.49484840 78.24539236 24.6051 165.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/sign_rwy_ahead_16x5.xml 15.49919868 78.24514429 24.2989 164.8 0.0 -0.0

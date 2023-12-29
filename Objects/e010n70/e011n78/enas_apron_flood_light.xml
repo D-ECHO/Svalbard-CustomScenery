@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+	<path>enas_apron_flood_light.ac</path>
+	
+	<animation>
+		<type>pick</type>
+		<object-name>metal_post</object-name>
+		<object-name>plastic_beige</object-name>
+		<object-name>plastic_bright</object-name>
+		<object-name>plastic_dark</object-name>
+		<object-name>lamps</object-name>
+		<object-name>cables</object-name>
+		<action>
+			<button>0</button>
+			<binding>
+				<command>property-toggle</command>
+				<property>scenery/ENAS/apron-flood-lights</property>
+			</binding>
+		</action>
+	</animation>
+	
+	<light>
+		<name>enas-apron-flood-light-1</name>
+		<type>spot</type>
+		<position>
+			<x-m> 0.21 </x-m>
+			<y-m>-0.18 </y-m>
+			<z-m> 0.66 </z-m>
+		</position>
+		<direction>
+			<x> 1.0  </x>
+			<y>-1.0  </y>
+			<z>-0.03 </z>
+		</direction>
+		<ambient>
+			<r>0.9</r>
+			<g>0.9</g>
+			<b>0.9</b>
+			<a>1</a>
+		</ambient>
+		<diffuse>
+			<r>0.9</r>
+			<g>0.9</g>
+			<b>0.9</b>
+			<a>1</a>
+		</diffuse>
+		<specular>
+			<r>0.9</r>
+			<g>0.9</g>
+			<b>0.9</b>
+			<a>1</a>
+		</specular>
+		<attenuation>
+			<c>1.0</c>
+			<l>0.2</l>
+			<q>0.02</q>
+		</attenuation>
+		<spot-exponent>5</spot-exponent>
+		<spot-cutoff>70</spot-cutoff>
+		<range-m>50</range-m>
+		<dim-factor>
+			<property>scenery/ENAS/apron-flood-lights</property>
+		</dim-factor>
+	</light>
+	<light>
+		<name>enas-apron-flood-light-2</name>
+		<type>spot</type>
+		<position>
+			<x-m>-0.21 </x-m>
+			<y-m>-0.18 </y-m>
+			<z-m> 0.66 </z-m>
+		</position>
+		<direction>
+			<x>-1.0  </x>
+			<y>-1.0  </y>
+			<z>-0.03 </z>
+		</direction>
+		<ambient>
+			<r>0.9</r>
+			<g>0.9</g>
+			<b>0.9</b>
+			<a>1</a>
+		</ambient>
+		<diffuse>
+			<r>0.9</r>
+			<g>0.9</g>
+			<b>0.9</b>
+			<a>1</a>
+		</diffuse>
+		<specular>
+			<r>0.9</r>
+			<g>0.9</g>
+			<b>0.9</b>
+			<a>1</a>
+		</specular>
+		<attenuation>
+			<c>1.0</c>
+			<l>0.2</l>
+			<q>0.02</q>
+		</attenuation>
+		<spot-exponent>5</spot-exponent>
+		<spot-cutoff>70</spot-cutoff>
+		<range-m>50</range-m>
+		<dim-factor>
+			<property>scenery/ENAS/apron-flood-lights</property>
+		</dim-factor>
+	</light>
+	
+	<animation>
+		<type>material</type>
+		<object-name>lamps</object-name>
+		<emission>
+			<red>1</red>
+			<green>1</green>
+			<blue>1</blue>
+			<factor-prop>scenery/ENAS/apron-flood-lights</factor-prop>
+		</emission>
+	</animation>
+	
+</PropertyList>

@@ -1,1 +1,90 @@
-OBJECT_SHARED Models/Airport/ndb.ac 11.856392 78.932406 8.67 180
+OBJECT_SHARED Models/Airport/ndb.ac 11.856392 78.932406 9.32 180  
+       
+OBJECT_STATIC ny_alesund_radio_telescope.xml 11.86969 78.9291 24.783 90  
+OBJECT_STATIC enas_tower.xml 11.8714 78.92894 24.529 160  
+OBJECT_SHARED Models/Transport/containsingle20ftred.ac 11.87182328 78.92892117 24.444 340 0 0
+OBJECT_SHARED Models/Transport/van_silver.ac 11.8710724 78.92894952 24.595 168 0 0
+OBJECT_SHARED Models/Transport/pickupwhite.ac 11.87090316 78.92894989 24.637 72 0 0
+OBJECT_SHARED Models/Airport/anemometer_10m.xml 11.89091341 78.92644502 22.093 340 0 0
+OBJECT_SHARED Models/Airport/anemometer_10m.xml 11.86104548 78.92957928 26.085 340 0 0
+OBJECT_SHARED Models/Transport/bulldozer.ac 11.87041504 78.92900674 24.699 240 0 0
+OBJECT_STATIC enas_kontor.ac 11.86775 78.92929 25.051 110  
+OBJECT_STATIC enas_fuel_store.ac 11.87635 78.92826 23.998 55  
+OBJECT_SHARED Models/Misc/apronworker1.xml 11.87153784 78.92887466 24.556 0 0 0
+OBJECT_SHARED Models/Misc/apronworker2.xml 11.86887149 78.92911058 24.963 0 0 0
+OBJECT_STATIC enas_radome.ac 11.88347 78.92762 21.381 0  
+OBJECT_STATIC enas_radome.ac 11.88135 78.92785 17.564 0  
+OBJECT_STATIC enas_rabben.ac 11.86415012 78.92973008 25.415 77.8 0 0
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.87180304 78.92851167 24.789 0 0 0
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.87133863 78.92863183 24.801 0 0 0
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.87083939 78.92876036 24.806 0 0 0
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.87027726 78.92887655 24.838 0 0 0
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.86953436 78.92895431 24.944 0 0 0
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.87231834 78.92851286 24.683 0 0 0
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.87197025 78.92860493 24.685 0 0 0
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.87155521 78.92873165 24.677 0 0 0
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.87205869 78.9287693 24.529 0 0 0
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.87211024 78.92885121 24.444 0 0 0
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.87113287 78.92888583 24.641 0 0 0
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.86988777 78.928999 24.831 0 0 0
+OBJECT_SHARED Models/Transport/containsingle20ftred.ac 11.86307132 78.92979595 25.57 352 0 0
+OBJECT_SHARED Models/Transport/containsingle20ftgreen.ac 11.86277748 78.92980809 25.618 348 0 0
+OBJECT_SHARED Models/Transport/container_20ft.xml 11.86229923 78.92983831 25.679 72 0 0
+OBJECT_SHARED Models/Transport/container_20ft.xml 11.86226578 78.92980318 25.721 72 0 0
+OBJECT_SHARED Models/Transport/containsingle20ftred.ac 11.86552143 78.92961482 25.247 340 0 0
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.86138947 78.92977412 25.906 155.4 0 --0.3
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.86224014 78.92969929 25.818 155.4 0 --0.3
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.86309134 78.92962468 25.729 155.5 0 --0.3
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.86392799 78.92954451 25.643 151.4 0 --0.3
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.86474751 78.92945781 25.55 150.9 0 --0.3
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.86556118 78.92936913 25.458 150 0 --0.3
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.86636989 78.92927877 25.369 149.7 0 --0.3
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.86717774 78.92918813 25.269 149.7 0 --0.3
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.86799368 78.92910026 25.164 151.7 0 --0.3
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.87250846 78.92873406 24.455 157.6 0 --0.5
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.8733686 78.92866342 24.319 156.1 0 --0.5
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.87422272 78.92859009 24.185 155.8 0 --0.5
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.87505646 78.92850899 24.065 150.5 0 --0.4
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.87587554 78.92842219 23.954 151.7 0 --0.4
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.87668422 78.92833203 23.849 148 0 --0.4
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.87748198 78.92823819 23.754 149 0 --0.4
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.87260866 78.92881832 24.356 160.3 0 --0.5
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.87347258 78.92874988 24.214 154.9 0 --0.4
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.87431608 78.92867216 24.084 153.9 0 --0.4
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.87515771 78.92859369 23.958 154.3 0 --0.4
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.87597799 78.92850778 23.847 148.4 0 --0.4
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.87678304 78.92841629 23.743 150.3 0 --0.4
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.87758966 78.9283253 23.638 148.8 0 --0.4
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.86149625 78.92982232 25.845 159 0 --0.3
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.86236583 78.92975601 25.754 157.7 0 --0.3
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.8665161 78.92934379 25.282 150.4 0 --0.3
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.86732965 78.92925506 25.181 150.4 0 --0.3
+OBJECT_SHARED Models/StreetFurniture/snow_pole.ac 11.86814319 78.92916631 25.076 150.4 0 --0.3
+OBJECT_STATIC enas_apron_flood_light.xml 11.87252786 78.92838113 24.736 144 0 0
+OBJECT_STATIC enas_apron_flood_light.xml 11.87219997 78.92828688 24.865 120 0 0
+OBJECT_STATIC enas_apron_flood_light.xml 11.87542977 78.9279586 24.456 352 0 0
+OBJECT_STATIC enas_apron_flood_light.xml 11.87593864 78.92807675 24.256 328 0 0
+OBJECT_STATIC enas_apron_flood_light.xml 11.87348433 78.92860823 24.34 92 0 0
+OBJECT_STATIC enas_apron_flood_light.xml 11.87463229 78.92849797 24.176 72 0 0
+OBJECT_STATIC enas_apron_flood_light.xml 11.87570597 78.92837761 24.036 60 0 0
+OBJECT_SHARED Models/Airport/twy_edge_light_260mm.ac 11.87238487 78.92832674 24.801 0 0 0
+OBJECT_SHARED Models/Airport/twy_edge_light_260mm.ac 11.87207954 78.9282634 24.903 0 0 0
+OBJECT_SHARED Models/Airport/twy_edge_light_260mm.ac 11.87164911 78.9282399 24.997 0 0 0
+OBJECT_SHARED Models/Airport/twy_edge_light_260mm.ac 11.87539919 78.92784694 24.553 0 0 0
+OBJECT_SHARED Models/Airport/twy_edge_light_260mm.ac 11.87538062 78.9279357 24.47 0 0 0
+OBJECT_SHARED Models/Airport/twy_edge_light_260mm.ac 11.8755458 78.92801558 24.387 0 0 0
+OBJECT_SHARED Models/Airport/twy_edge_light_260mm.ac 11.875924 78.92806599 24.268 0 0 0
+OBJECT_SHARED Models/Airport/twy_edge_light_260mm.ac 11.87646809 78.92815915 24.066 0 0 0
+OBJECT_STATIC ny_alesund_renseverket.ac 11.91822 78.92823 2.408 56  
+OBJECT_STATIC ny_alesund_nordpolhotellet.ac 11.92795 78.92451 9.198 67.25  
+OBJECT_STATIC ny_alesund_town_centre_houses.ac 11.92717 78.92453 9.128 65.75  
+OBJECT_STATIC ny_alesund_marinlaboratoriet.ac 11.93202 78.92744 1.738 87.7  
+OBJECT_STATIC ny_alesund_havnelageret.ac 11.93278 78.92707 2.248 60.5  
+OBJECT_STATIC ny_alesund_kraftstasjonen.ac 11.92384 78.92753 11.603 53.2  
+OBJECT_STATIC ny_alesund_luftskipmasten.ac 11.94624 78.92155 8.642 135  
+OBJECT_STATIC ny_alesund_zeppelin_observatory.ac 11.88601 78.90729 425.611 90  
+OBJECT_SHARED Models/Communications/Kat_7_Radio_Telescope.ac 11.854543 78.943396 5.886 0  
+OBJECT_SHARED Models/Communications/Kat_7_Radio_Telescope.ac 11.855211 78.942654 7.733 0  
+OBJECT_STATIC ny_alesund_observatory.ac 11.8542192 78.94311441 7.828 100 0 0
+
+
